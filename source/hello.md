@@ -1,6 +1,6 @@
 ---
 title: Say Hello to the world
-date: 2019-06-24
+date: 2019-06-23
 ---
 
 ## Hello world
