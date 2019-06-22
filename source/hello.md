@@ -1,4 +1,3 @@
-# First article
 
 ## Hello world
 
